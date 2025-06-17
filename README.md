@@ -8,11 +8,11 @@
 <h1 align="left">Hi 👋, I'm Limart Salomon</h1>
 <h4 align="left">I'm a Full Stack Developer from Philippines</h4>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=tramilimart&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Web / Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
