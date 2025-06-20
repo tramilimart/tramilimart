@@ -48,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud"/>
   <img src="https://svgmix.com/uploads/skillicons/29026e-aws-dark.svg" height="30" alt="AWS"/>
-
 </p>
 
 
