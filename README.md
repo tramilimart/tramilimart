@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="left">Hi 👋, I'm Limart Salomon </h1>
+<h1 align="left">Hi 👋, I'm Limart Salomon</h1>
 <h4 align="left">I'm a Full Stack Developer from Philippines</h4>
 
 <p align="left">
